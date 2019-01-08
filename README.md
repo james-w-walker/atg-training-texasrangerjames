@@ -1,10 +1,10 @@
 #Git Training Course
 
 ## Authors
-* < James Walker >
+* James Walker
 * < No other contributors >
 
-##Description
+## Description
 - [ ] Client project
 - [x] ATG Internal project
 
