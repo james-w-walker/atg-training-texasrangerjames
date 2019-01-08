@@ -9,3 +9,5 @@
 - [x] ATG Internal project
 
 This is just prepping me for the Apex boot camp...
+
+*This stuff is incredibly difficult*
