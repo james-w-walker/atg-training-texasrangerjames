@@ -10,4 +10,5 @@
 
 This is just prepping me for the Apex boot camp...
 
-*This stuff is incredibly difficult*
+
+This is an aribtrary update requested by the Git training. 
